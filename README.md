@@ -1,4 +1,5 @@
 Duplicate File Finder
+
 A simple Python web app that finds duplicate files in a directory using file hashing and displays the results in a Streamlit interface.
 
 🚀 Features
